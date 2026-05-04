@@ -19,3 +19,5 @@ This project predicts Air Quality Index (AQI) using a two-stage machine learning
 1. Open Jupyter Notebook or Python file
 2. Run all cells
 3. View AQI prediction results
+## Output
+![Output](your-image-name.png)
